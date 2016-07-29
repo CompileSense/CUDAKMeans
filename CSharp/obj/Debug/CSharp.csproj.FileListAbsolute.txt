@@ -1,0 +1,5 @@
+C:\Research\CUDAKMeans\CSharp\bin\Debug\CSharp.exe
+C:\Research\CUDAKMeans\CSharp\bin\Debug\CSharp.pdb
+C:\Research\CUDAKMeans\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Research\CUDAKMeans\CSharp\obj\Debug\CSharp.exe
+C:\Research\CUDAKMeans\CSharp\obj\Debug\CSharp.pdb
